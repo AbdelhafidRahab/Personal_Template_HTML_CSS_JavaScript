@@ -291,7 +291,6 @@ header {
     height: 0;
     color: var(--main-color);
     background-color: rgba(0,0,0,.5);
-    box-shadow: #FFB400;
     transition: 1.5s;
     text-align: center;
 }
